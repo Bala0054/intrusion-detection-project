@@ -1,2 +1,2 @@
-# learning-python
-my first github repo for learn python programming from begining
+# intrusion-detection-project
+network intrusion detection system using random forest algorithm with large dataset
